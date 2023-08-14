@@ -1,0 +1,20 @@
+.pic {
+width: 250px;;
+padding: 15px;
+border-style: groove;
+border-width: 5px;
+border-color: aqua;
+
+
+}
+.album {
+text-align: center;
+}
+.artist {
+  text-align: center;
+}
+* {
+  background-color: black;
+  color: rgb(177, 255, 255);
+  text-align: center;
+}
